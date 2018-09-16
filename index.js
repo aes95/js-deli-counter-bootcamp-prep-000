@@ -1,3 +1,4 @@
 function takeANumber(line, name){
-  return `
+  var num = line + 1
+  return `Welcome, ${name}. You are number 1 in line.`
 }
